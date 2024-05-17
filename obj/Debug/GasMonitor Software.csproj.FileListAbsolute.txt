@@ -1,0 +1,27 @@
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoadingForm.resources
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\GasMonitor Software.csproj.GenerateResource.Cache
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\GasMonitor Software.csprojResolveAssemblyReference.cache
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashboardForm.resources
+C:\Users\Kalindu Washington\Desktop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RetryExitMessageBox.resources
+F:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Project\WindowsFormsApplication1\bin\Debug\System.Data.SQLite.dll
+F:\Project\WindowsFormsApplication1\bin\Debug\x64\SQLite.Interop.dll
+F:\Project\WindowsFormsApplication1\bin\Debug\x86\SQLite.Interop.dll
+F:\Project\WindowsFormsApplication1\bin\Debug\data\local.db
+F:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Project\WindowsFormsApplication1\obj\Debug\GasMonitor Software.csprojResolveAssemblyReference.cache
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DashboardForm.resources
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.LoadingForm.resources
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RetryExitMessageBox.resources
+F:\Project\WindowsFormsApplication1\obj\Debug\GasMonitor Software.csproj.GenerateResource.Cache
+F:\Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OKMsgBox.resources
